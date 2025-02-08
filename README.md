@@ -1,2 +1,2 @@
-# for-cloning
-A Repository to clone while learning about Git.
+# For Cloning
+A repository to clone while learning about Git.
